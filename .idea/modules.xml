@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Laboratornaya1/HelloKotlin/HelloKotlin.iml" filepath="$PROJECT_DIR$/Laboratornaya1/HelloKotlin/HelloKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabWork6/LabWork6.iml" filepath="$PROJECT_DIR$/LabWork6/LabWork6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Laboratornaya1/Laboratornaya1.iml" filepath="$PROJECT_DIR$/Laboratornaya1/Laboratornaya1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Laboratornaya2/Laboratornaya2.iml" filepath="$PROJECT_DIR$/Laboratornaya2/Laboratornaya2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Laboratornaya3/Laboratornaya3.iml" filepath="$PROJECT_DIR$/Laboratornaya3/Laboratornaya3.iml" />
